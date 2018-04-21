@@ -1,5 +1,5 @@
 module MinaSidekiq
   def self.version
-    "0.3.1"
+    '1.0.3'
   end
 end
